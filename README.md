@@ -49,6 +49,21 @@
 
 - This class is mainly designed for storing and displaying messages BEFORE, DURING, and AFTER the game.
 
+---
+
+## Instructions on how to compile and run the program via Mac Terminal
+
+1. Create a new folder on your MacBook and copy-paste all the 13 classes mentioned above to that folder.
+2. Open Terminal and type "cd " (notice there is a  **whitespace** after "cd" !).
+3. Then **drag the folder** to the terminal so that Mac can automatically complete the directory of that folder for you.
+4. Press "Enter". Now you are inside the newly created folder.
+5. Type "javac GameEntrance.java" in the terminal.
+6. Type "java GameEntrance" in the terminal.
+7. Now you should be able to play the game through Mac Terminal.
+8. Please note that you should have a **JDK** installed in you MacBook with version at least **1.8**. 
+
+---
+
 ## Instructions about how to setup the project
 
 1. Open IntelliJ (or any other IDE like Eclipse). Create a new project.
