@@ -121,7 +121,7 @@
 
 ### 4. Neat game board design
 
-- <img src="https://github.com/Superkakayong/Trivia/blob/master/Project_Images/TicTacToe-I-Object-oriented/Game%20Board%20Design.png" alt="image-20210210200440573" style="zoom:50%; float: left/>
+- <img src="https://github.com/Superkakayong/Trivia/blob/master/Project_Images/TicTacToe-I-Object-oriented/Game%20Board%20Design.png" alt="image-20210210200440573" style="zoom:50%; float: left" />
 ### 5. Proper code format
 
 - Proper indentations, very **detailed** comments, etc.
