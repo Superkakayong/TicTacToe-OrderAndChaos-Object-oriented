@@ -1,4 +1,4 @@
-<h1 align = "center">TicTacToe-I-Object-oriented --Dayong Wu</h1>
+<h1 align = "center">TicTacToe-I-Object-oriented => [Dayong Wu]</h1>
 
 ---
 
