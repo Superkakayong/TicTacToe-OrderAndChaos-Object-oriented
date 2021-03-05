@@ -106,8 +106,7 @@
 
 ### 4. Neat game board design
 
-- <img src="/Users/superkakayong/Library/Application Support/typora-user-images/image-20210210200440573.png" alt="image-20210210200440573" style="zoom:50%; float: left" />
-
+- 
 ### 5. Proper code format
 
 - Proper indentations, very **detailed** comments, etc.
