@@ -132,10 +132,3 @@
 ## UML Diagram for the Project
 
 <img src="https://github.com/Superkakayong/Trivia/blob/master/Project_Images/TicTacToe-I-Object-oriented/UML.jpeg" alt="image-20210210200440573" style="zoom:75%; float: left" />
-
----
-
-## Tracker
-
-1. 10 Feb 2021
-2. 5 Mar 2021
