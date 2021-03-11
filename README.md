@@ -125,7 +125,7 @@
 
 ### 5. Proper code format
 
-- Proper indentations, very **detailed** comments, etc.
+- Proper **indentations**, very **detailed** comments, etc.
 
 ---
 
