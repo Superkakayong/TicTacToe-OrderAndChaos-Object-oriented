@@ -4,7 +4,7 @@
 
 > ## Background
 >
-> What's up guys! The topic of this repository is **board game and object-oriented**. 
+> What's up guys! The topics of this repository are **board game and object-oriented**. 
 >
 > In this repository, there exists **TWO** projects, namely **"Only TicTacToe"** and **"TicTacToe & OAC"**. The first project is a single board game called **TicTacToe** which was implemented in an **Object-oriented** design pattern, while the second one is a more advanced version. 
 >
