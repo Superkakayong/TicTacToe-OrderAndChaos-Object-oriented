@@ -1,10 +1,10 @@
-<h1 align = "center">Tic Tac Toe II - Dayong Wu</h1>
+<h1 align = "center">TTT & OAC-Object-oriented=>[Dayong Wu]</h1>
 
 ---
 
 > ## Background
 >
-> In Assignment1 - Part2, I have created two board games, namely **Tic Tac Toe** and **Order and Chaos**, which generally allow two players to play against each other on a virtual game board. The **core** of this project is its **object-oriented design**, which renders the whole project of high **scalability** and **extendability**.
+> Hi guys! In this project, I have created two board games, namely **Tic Tac Toe** and **Order and Chaos**, which generally allow two players to play against each other on a virtual game board. The **core** of this project is its **object-oriented design**, which renders the whole project of high **scalability** and **extendability**.
 
 ---
 
@@ -131,27 +131,23 @@
   - First its data type will be checked. If it is not of type int, system will prompt accordingly without crashing.
   - Then, the range of the input will be checked. If it is out of the range of the board size (i.e. out of  **[1, board size * board size]** ), system will prompt accordingly without crashing.
 
-### 4. Neat game board design
-
-- <img src="/Users/superkakayong/Library/Application Support/typora-user-images/image-20210222113849845.png" alt="image-20210222113849845" style="zoom:50%; float: left" />
-
-### 5. High Scalability
+### 4. High Scalability
 
 - The board can be easily scaled from 3x3 to nxn since in my design, a board is just a collection of many board cells. 
 - There is also floor and ceiling of the size of a game board, thus preventing the user to create super large or small board.
 - In Order and Chaos, the board is fixed to be 6x6, thus ensures the safety of the game mechanism.
 - Since there is a class represents the behaviours and abilities of a player, the game is also capable of being scaled to a team-based game (not implemented). The idea would be just creating two arrays of players and slightly modify the game logic.
 
-### 6. High Extendability
+### 5. High Extendability
 
 - It is feasible for the game to be extended to turn-based games since in the **BoardGame** class we have the abstract method called **playerTurn( )**. Any specific game class can override this method to implement the turn-based mechanism.
 - It is also very easy to extend the game to other cell-based board games since we have the **BoardCell** class and **Checker** class in the project. These two classes can be instantiated as many times as you want, thus any cell-based board games can be implemented without great difficulties.
 
-### 7. Data Statistics
+### 6. Data Statistics
 
 - In both Tic Tac Toe and Order and Chaos, the games can count the winning times of each round for each player and print out the results when they decide to exit the game.
 
-### 8. Proper code format
+### 7. Proper code format
 
 - Proper indentations, very **detailed** comments, etc.
 
@@ -164,4 +160,10 @@
 - We **don't** count 6-in-a-row as a win for the Order guy.
 - For example, if there are 6 'X's in the first row without a 5-in-a-row happens, we will **not** announce Order as the winner. The game will just continue (if not all 36 cells are filled at that stage, otherwise the Chaos guy wins).
 - Chaos wins only if all the 36 cells are filled and there still does not exist a 5-in-a-row.
+
+---
+
+## UML Diagram for the Project
+
+<img src="https://github.com/Superkakayong/Trivia/blob/master/Project_Images/TicTacToe-I-Object-oriented/TTT%20II%20-%20UML.jpeg" alt="image-20210210200440573" style="zoom:75%; float: left" />
 
