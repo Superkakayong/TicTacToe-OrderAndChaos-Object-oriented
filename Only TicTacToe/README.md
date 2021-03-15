@@ -100,7 +100,7 @@
   }
   ```
 
-### 2. Very concise main().
+### 2. Very concise main() method
 
 - As only an entrance of the project, the main() method has only two lines.
 
