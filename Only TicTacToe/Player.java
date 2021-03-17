@@ -39,6 +39,7 @@ public class Player {
      */
     public void move(GameBoard board, Checker checker) {
         int movePos;
+        
         while (true) {
             NotificationCenter.boardPlacement(1, this.name, board.getBoardSize());
             board.printBoard();
