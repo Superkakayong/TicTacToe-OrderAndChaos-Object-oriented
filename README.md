@@ -20,7 +20,7 @@
 
 ---
 
-## 
+
 
 ## UML Diagram for the Project [Only TicTacToe]
 
