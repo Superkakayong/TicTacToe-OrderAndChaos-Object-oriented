@@ -6,9 +6,9 @@
 >
 > **What's up guys!**  
 >
-> The topics of this repository are **board game and object-oriented**.  
+> The topics of this repository are **board game and object-oriented design**.  
 >
-> In this repository, there exists **TWO** projects, namely **"Only TicTacToe"** and **"TicTacToe & OAC"**. The first project is a single board game called **TicTacToe** which was implemented in an **Object-oriented** design pattern, while the second one is a more advanced version.  
+> In this repository, there exist **TWO** projects, namely **"Only TicTacToe"** and **"TicTacToe & OAC"**. The first project is a single board game called **TicTacToe** which was implemented in an **Object-oriented** design pattern, while the second one is a more advanced version.  
 >
 > The second project serves as the final version of this project. It contains two **OO** style board games, namely **TicTacToe** and **Order And Chaos**. As you explore this project, you will find that all common parts of these two board games have been abstracted and modularized, which makes the entire project of high scalability and extendability. One can easily implement a new **board game** based on this project by just following the same pattern as how I embedded the **Order And Chaos** game to the original **TicTacToe** game (see the first project). 
 >
