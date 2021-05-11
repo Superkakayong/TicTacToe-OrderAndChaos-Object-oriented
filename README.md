@@ -4,7 +4,7 @@
 
 > ## Background
 >
-> **What's up guys!**  
+> **What's up guys!**   
 >
 > The topics of this repository are **board game and object-oriented design**.  
 >
