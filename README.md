@@ -12,7 +12,7 @@
 >
 > The second project serves as the final version of this project. It contains two **OO** style board games, namely **TicTacToe** and **Order And Chaos**. As you explore this project, you will find that all common parts of these two board games have been abstracted and modularized, which makes the entire project of high scalability and extendability. One can easily implement a new **board game** based on this project by just following the same pattern as how I embedded the **Order And Chaos** game to the original **TicTacToe** game (see the first project). 
 >
-> My comprehension of the philosophy of **OO** has improved incredibly through these two projects. In the first project, all you need to worry about is how to develop a single board game and make it **OO**, which is clearly not enough for this project to be truly **OO**. Nonetheless, in the second project, when you were asked to scale your original project to accommodate another similar-type board game, that's where you truly became an **OO** believer. 
+> My comprehension of the philosophy of **OO** has improved incredibly through these two projects. In the first project, all you need to worry about is how to develop a single board game and make it **OO**, which is clearly not enough for this project to be truly **OO**. Nonetheless, in the second project, when you were asked to scale your original project to accommodate another similar-type board game, that's where you truly became an **OO** believer.  
 >
 > **There is a super detailed ReadMe file in each of the project folder, so here I will just post the UML diagrams for the two projects.**
 
