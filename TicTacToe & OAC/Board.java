@@ -3,7 +3,7 @@
  */
 public class Board {
     private int boardSize;
-    private BoardCell[][] board; 
+    private BoardCell[][] board;
 
     public Board() {}
 
